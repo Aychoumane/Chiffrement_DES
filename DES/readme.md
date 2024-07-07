@@ -1,4 +1,4 @@
-Créateur : Ichou Aymane L3B , N°étudiant : 21007668 
+Créateur : Ichou Aymane L3B ,  
 Projet : Chiffrement DES 64 bits, mode ECB 
 
 Ce projet a été codé en python car ce langage permet facilement la manipulation de liste,  et le typage dynamique m'a été fort utile et nécessaire pour la clarification du code. 
